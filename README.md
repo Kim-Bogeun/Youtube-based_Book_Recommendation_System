@@ -5,11 +5,12 @@
 도서 추천 대상 : 서울도서관 인기 대출 정보, 성균관대학교 핫북, 이달의 신간 
 
 ### 분석 기법 :
-사회 이슈 추출 : TF-IDF 변형식 
-유튜브 키워드 추출 : Pagerank Algorithm, KR-SBert 유사도 계산
-유튜브 영상 KDC 할당 : Labeled-LDA
-
-### Recommendation System
-시청 기록 입력 - 유튜브로부터 키워드 추출 및 KDC 분야별 선호 분포 형성
-협업 필터링: Bayesian 관점 적용, 분포 조정 및 최종 분포 형성
-최종 분포 & 키워드 유사도 키반 도서 추천 진행
+사회 이슈 추출 : TF-IDF 변형식   
+유튜브 키워드 추출 : Pagerank Algorithm, KR-SBert 유사도 계산   
+유튜브 영상 KDC 할당 : Labeled-LDA   
+   
+### Recommendation System   
+시청 기록 입력 - 유튜브로부터 키워드 추출 및 KDC 분야별 선호 분포 형성   
+협업 필터링: Bayesian 관점 적용, 분포 조정 및 최종 분포 형성   
+최종 분포 & 키워드 유사도 키반 도서 추천 진행   
+   

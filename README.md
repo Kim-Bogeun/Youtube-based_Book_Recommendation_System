@@ -1,4 +1,4 @@
-## 유튜브로 알아보는 나의 독서 DNA : 유튜브 시청기록 기반 도서 추천 시스템(Youtube-based_Book_Recommendation_System)
+## 유튜브 시청기록 기반 도서 추천 시스템(Youtube-based_Book_Recommendation_System)
 
 ### Preprocessing & EDA
 사용 데이터 : YES24 및 유튜브 크롤링, 문화빅데이터 플랫폼 인기 대출 데이터, 빅카인즈 분야 별 뉴스 기사
